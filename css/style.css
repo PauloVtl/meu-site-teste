@@ -334,11 +334,6 @@ footer .detail {
         padding: 25px;
     }
 
-    .esquerdo {
-        border-bottom: 1px solid rgb(29, 26, 26);
-        border-right: none;
-    }
-
     /* jobs */
 
     #jobs-section h2, #jobs-section p {
