@@ -332,6 +332,16 @@ footer .detail {
         padding: 25px;
     }
 
+    .skills-container img {
+        height: 10rem;
+        padding: 15px;
+        margin-bottom: 25px;
+        border-top: 1px solid rgb(29, 26, 26);
+        border-left: 1px solid rgb(29, 26, 26);
+        border-bottom: 1px solid rgb(29, 26, 26);
+        border-right: 1px solid rgb(29, 26, 26);
+    }
+
     /* jobs */
 
     #jobs-section h2, #jobs-section p {
