@@ -287,16 +287,20 @@ footer .detail {
     /* banner */
 
     #main-banner {
-        height: 30vh;
+        height: 40vh;
         padding-top: 5vh;
-        padding-bottom: 13vh;
+        padding-bottom: 10vh;
+    }
+
+    #banner-info {
+        width: 60%;
     }
 
     h1{
         font-size: 2rem;
     }
 
-    #banner-info {
+    #banner-info p {
         margin: 0;
         width: auto;
     }
@@ -313,7 +317,7 @@ footer .detail {
 
     #skills-section {
         margin-top: -35px;
-        width: 95%;
+        width: 90%;
     }
 
     #skills-section .container {
@@ -332,6 +336,7 @@ footer .detail {
 
     .esquerdo {
         border-bottom: 1px solid rgb(29, 26, 26);
+        border-right: none;
     }
 
     /* jobs */
