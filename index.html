@@ -11,14 +11,16 @@
 <body>
     <!-- navbar -->
     <header id="navbar">
-        <h2>Paulo Vital</h2>
-        <nav>
-            <ul id="navbar-list">
+        <div class="navbar-container">
+            <h2>Paulo Vital</h2>
+            <nav>
+                <ul id="navbar-list">
                 <li><a href="#about-section">Sobre</a></li>
                 <li><a href="#skills-section">Projetos</a></li>
                 <li><a href="#contato">Contato</a></li>
-            </ul>
-        </nav>
+                </ul>
+            </nav>
+        </div>
     </header>
     <!-- fim navbar -->
 
@@ -89,9 +91,16 @@
             <textarea name="msg" placeholder="Digite uma mensagem"></textarea>
             <input class="botao" type="button" value="Enviar">
         </form>
-        <p><a class="inicio" href="#">Início</a></p>
+        <button id="back-to-top">Voltar ao topo</button>
         <p>Desenvolvido por <span class="detail">Paulo Vital</span></p>
     </footer>
-    <!-- footer início -->
+    <!-- footer fim -->
+
+    <!-- JQuery CDN -->
+    <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js" 
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <!-- JS File -->
+    /,<script src="/js/main.js"></script>
 </body>
 </html>

@@ -251,16 +251,14 @@ footer .detail {
     cursor: pointer;
 }
 
-.inicio {
-    text-decoration: none;
+#back-to-top {
+    border-radius: 7px;
+    bottom: 50px;
+    right: 50px;
+    background-color: rgb(86, 86, 167);
     color: #fff;
-    font-size: large;
+    cursor: pointer;
 }
-
-.inicio:hover {
-    border-bottom: 1px solid #fff;
-}
-
 
 /* responsivo celulares - media query */
 
