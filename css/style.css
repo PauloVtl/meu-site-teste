@@ -330,10 +330,11 @@ footer .detail {
     }
     .skills-container {
         padding: 25px;
+        width: auto;
     }
 
     .skills-container img {
-        height: 10rem;
+        height: 9rem;
         padding: 15px;
         margin-bottom: 25px;
         border-top: 1px solid rgb(29, 26, 26);
