@@ -129,10 +129,6 @@ h2 {
     height: 170px;
     padding: 15px;
     margin-bottom: 25px;
-    border-top: 1px solid rgb(29, 26, 26);
-    border-left: 1px solid rgb(29, 26, 26);
-    border-bottom: 4px solid rgb(29, 26, 26);
-    border-right: 4px solid rgb(29, 26, 26);
 }
 
 .skills-container .subtitle {
@@ -327,12 +323,6 @@ footer .detail {
         margin-right: auto;
     }
     
-    .skills-container img {
-    altura: 170px;
-    preenchimento: 15px;
-    margem-inferior: 25px;
-}
-
     .skills-container h3, .skills-container .subtitle {
         font-size: 1.3rem;
     }
