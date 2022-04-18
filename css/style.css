@@ -264,7 +264,7 @@ footer .detail {
 
 /* responsivo celulares - media query */
 
-@media (min-width: 360px) and (max-width:450px){  
+@media (min-width: 360px) and (max-width:750px){  
 
     /* html - 18px -> 1rem, 1,2rem -> 18px (1 pixel + 20%) */
 
@@ -373,3 +373,4 @@ footer .detail {
     }
 
 }
+ 
